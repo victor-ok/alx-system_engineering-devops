@@ -1,0 +1,1 @@
+fixes automatically a 500 server error on get request to the wordpress website to a wrongly spelled file path within wp-settings.php.
